@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-alves-de-souza-0015003b/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tomas.alves08@gmail.com)
 
-<img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" />
+<!--  <img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" /> -->
 
 ## 🔭 I'm currently working on
 - Developing React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> web apps
