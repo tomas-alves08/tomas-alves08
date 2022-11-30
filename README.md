@@ -1,12 +1,10 @@
-Hi there 👋 My name is Tomas Alves de Souza
-
-# I have been learning programming and web development since the end of 2021 and I have decided mid 2022 to quit my job to focus on my dream to become a developer. I studied the full stack web development bootcamp provided by Dev Academy and now I am polishing my skills and trying to get into the tech industry.
-
-🔭 I’m currently working on my personal portfolio and a few personal projects to polish my full stack skills using React, NodeJS and many other tools. You can find my repo's below or my portfolio on https://portfolio-bb51c.web.app/.
-
 <h3 align="center">
   Kia Ora, my name is Tomas 👋
 </h3> 
+
+<a href="https://portfolio-bb51c.web.app/">
+    My Portfolio
+  </a>
 
 <h2 align="center">
   I'm a web developer 💻 a biochemical engineer 🔬 and a amature musician 🎸
