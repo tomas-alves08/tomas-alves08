@@ -2,10 +2,6 @@
   Kia Ora, my name is Tomas 👋
 </h3> 
 
-<a href="https://portfolio-bb51c.web.app/">
-    My Portfolio
-  </a>
-
 <h2 align="center">
   I'm a web developer 💻 a biochemical engineer 🔬 and a amature musician 🎸
 </h2> 
@@ -48,6 +44,12 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br />
 </p>
+
+<p>
+  Please find more information on my <a href="https://portfolio-bb51c.web.app/">
+    My Portfolio
+  </a>
+ </p>
 
 <!-- This readme was inspired by Zin Hoang - https://github.com/zinHoang -->
 
