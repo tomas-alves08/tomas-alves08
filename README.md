@@ -43,7 +43,7 @@
 
 <h3 align="center">
   Please find more information on my <a href="https://portfolio-bb51c.web.app/">
-    My Portfolio
+    Portfolio
   </a>
 </h3>
 
