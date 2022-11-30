@@ -3,7 +3,7 @@
 </h2> 
 
 <h3 align="center">
-  I'm a web developer 💻 biochemical engineer 🔬 and amature musician 🎸
+  I'm a web developer 💻 and biochemical engineer 🔬
 </h3> 
 
 ### 🤝 Connect with me:
