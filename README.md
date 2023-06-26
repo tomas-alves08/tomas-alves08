@@ -13,8 +13,8 @@
 <!--  <img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" /> -->
 
 ## 🔭 I'm currently working on
-- Developing React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> web apps
-- Sharpening CSS, JavaScript and Node JS and most recently my C# .NET skills
+- Developing my React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> and C# .NET skills web apps
+- Sharpening CSS, JavaScript and Node JS, Redux, Bootstrap and API calls skills.
 
 ##  🌱 Background
 - I have a Bachelor Degree in Biochemical Engineering and worked for over 10 years mostly in the chemical industry in many different roles that include both technical and management ends.
