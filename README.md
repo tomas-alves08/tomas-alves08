@@ -13,7 +13,7 @@
 <!--  <img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" /> -->
 
 ## 🔭 I'm currently working on
-- Developing my React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> and C# .NET skills web apps
+- Developing my React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">, Vue, JavaScript and C# .NET skills web apps
 - Sharpening CSS, JavaScript and Node JS, Redux, Bootstrap and API calls skills.
 
 ##  🌱 Background
